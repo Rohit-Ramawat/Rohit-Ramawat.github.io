@@ -86,14 +86,14 @@ let resume1 = document
 function opendrive1(){
   window.open(
     (href =
-      "https://drive.google.com/file/d/1aAM8Y903ALBXq7B8nAjdybv5H3ov88uI/view?usp=share_link")
+      "https://drive.google.com/file/d/1EIpZz1kRUE-KxqRDfCaU1zgsuUMdoyNy/view?usp=sharing")
   );
  }
 
  function opendrive2(){
     window.open(
       (href =
-        "https://drive.google.com/file/d/1aAM8Y903ALBXq7B8nAjdybv5H3ov88uI/view?usp=share_link")
+        "https://drive.google.com/file/d/1EIpZz1kRUE-KxqRDfCaU1zgsuUMdoyNy/view?usp=sharing")
     );
    }
 
